@@ -24,3 +24,5 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+print("This is a simple calculator program. You can perform addition, subtraction, multiplication, and division.")
