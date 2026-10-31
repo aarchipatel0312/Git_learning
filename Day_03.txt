@@ -2,4 +2,5 @@ now that i understood about the branches ,I am moving to the Day 03 of Git and G
 
 Day 03- Push,Pull and Clone
 
+pushed the changes using 'git push ',pulled the changes of file from github repo using 'git pull' and then cloned a python repo into my local computer using ' git clone'.
 
