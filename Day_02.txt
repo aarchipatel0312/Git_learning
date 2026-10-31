@@ -1,0 +1,7 @@
+After I understood the difference between Git and Github and learned to push a local repository to the remote repository ....
+moving to the Day 02 of Git and Github learning.
+
+B
+
+I focused on learning about Branches,what are branches,how they work and created a new branch 'feature-update' from the 'main' branch.
+Also merged the new branch with the main branch and finally pushed it to the Github repo.
